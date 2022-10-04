@@ -1,4 +1,3 @@
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  
  <div align="center">
   <a href="https://github.com/wbeize">
@@ -8,7 +7,5 @@
 </div>
 
 <div> 
-  <i class="devicon-linkedin-plain-wordmark"></i>
   <a href="https://www.linkedin.com/in/tairax" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg" target="_blank"></a> 
- 
 </div>
