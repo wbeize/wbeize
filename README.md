@@ -7,7 +7,7 @@
 
 <div> 
 
-    <a href = "https://www.linkedin.com/in/tairax/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg" />
+    <a href = "https://www.linkedin.com/in/tairax/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg"/>
           
           
 
