@@ -1,5 +1,6 @@
-<div align="center">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ 
+ <div align="center">
   <a href="https://github.com/wbeize">
   <img height="146em" src="https://github-readme-stats.vercel.app/api?username=wbeize&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
